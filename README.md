@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zyad</h1>
 <h3 align="center">A passionate Backend developer from Egypt, living in Turkey</h3>
 
-- 🔭 I’m currently working on **Finance Manager Django App**
+- 🔭 I’m currently working on **Finance Manager Django App and making it a PWA**
 
 - 💬 Ask me about **Python, Flask, Django, Selenium, HTML, CSS, Bootstrap**
 
